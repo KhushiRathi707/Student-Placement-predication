@@ -1,0 +1,343 @@
+Age,Gender,Stream,Internships,CGPA,Hostel,HistoryOfBacklogs,PlacedOrNot
+22,Male,Computer Science,1,7.8,No,No,1
+21,Female,Information Technology,2,8.2,Yes,No,1
+23,Male,Electronics And Communication,0,6.5,No,Yes,0
+21,Female,Computer Science,1,8.5,Yes,No,1
+22,Male,Mechanical,0,6.8,No,Yes,0
+20,Female,Information Technology,2,8.0,Yes,No,1
+24,Male,Civil,0,6.2,No,Yes,0
+22,Female,Computer Science,2,8.7,Yes,No,1
+23,Male,Electrical,1,7.1,No,No,1
+21,Female,Information Technology,1,7.5,Yes,No,1
+22,Male,Mechanical,0,6.4,No,Yes,0
+23,Female,Civil,1,7.0,Yes,No,1
+24,Male,Computer Science,2,8.1,No,No,1
+21,Female,Electronics And Communication,1,7.6,Yes,No,1
+22,Male,Information Technology,0,6.9,No,Yes,0
+20,Female,Computer Science,1,8.3,Yes,No,1
+23,Male,Electrical,0,6.7,No,Yes,0
+22,Female,Mechanical,2,7.4,Yes,No,1
+24,Male,Civil,1,6.8,No,Yes,0
+21,Female,Information Technology,2,8.6,Yes,No,1
+22,Male,Computer Science,1,7.9,No,No,1
+23,Female,Electrical,0,7.2,Yes,No,1
+24,Male,Mechanical,1,7.0,No,Yes,0
+20,Female,Civil,2,7.8,Yes,No,1
+22,Male,Information Technology,1,7.3,No,No,1
+21,Female,Computer Science,3,8.9,Yes,No,1
+23,Male,Electronics And Communication,0,6.1,No,Yes,0
+22,Female,Electrical,1,7.7,Yes,No,1
+24,Male,Civil,0,6.5,No,Yes,0
+21,Female,Mechanical,2,8.0,Yes,No,1
+22,Male,Computer Science,2,8.4,No,No,1
+23,Female,Information Technology,1,8.1,Yes,No,1
+24,Male,Electrical,0,6.3,No,Yes,0
+20,Female,Computer Science,2,8.8,Yes,No,1
+22,Male,Mechanical,1,7.2,No,No,1
+21,Female,Civil,0,6.6,Yes,Yes,0
+23,Male,Information Technology,2,7.9,No,No,1
+24,Female,Computer Science,3,9.0,Yes,No,1
+22,Male,Electronics And Communication,1,7.0,No,Yes,0
+21,Female,Electrical,1,7.8,Yes,No,1
+23,Male,Civil,0,6.4,No,Yes,0
+22,Female,Mechanical,2,8.2,Yes,No,1
+24,Male,Information Technology,1,7.6,No,No,1
+20,Female,Computer Science,1,8.0,Yes,No,1
+21,Male,Electrical,0,6.8,No,Yes,0
+23,Female,Civil,2,7.5,Yes,No,1
+22,Male,Computer Science,0,6.7,No,Yes,0
+24,Female,Information Technology,3,8.7,Yes,No,1
+21,Male,Mechanical,1,7.1,No,No,1
+22,Female,Electronics And Communication,1,7.9,Yes,No,1
+23,Male,Electrical,2,7.8,No,No,1
+20,Female,Civil,0,6.3,Yes,Yes,0
+24,Male,Computer Science,3,8.8,No,No,1
+22,Female,Information Technology,2,8.4,Yes,No,1
+21,Male,Mechanical,0,6.5,No,Yes,0
+23,Female,Computer Science,2,8.6,Yes,No,1
+24,Male,Civil,1,7.0,No,Yes,0
+22,Female,Electrical,2,8.1,Yes,No,1
+21,Male,Electronics And Communication,0,6.2,No,Yes,0
+23,Female,Information Technology,1,7.7,Yes,No,1
+22,Male,Computer Science,2,8.5,No,No,1
+24,Female,Mechanical,1,7.3,Yes,No,1
+20,Male,Civil,0,6.0,No,Yes,0
+21,Female,Electrical,2,8.0,Yes,No,1
+23,Male,Information Technology,1,7.4,No,No,1
+22,Female,Computer Science,3,9.1,Yes,No,1
+24,Male,Electronics And Communication,0,6.6,No,Yes,0
+21,Female,Civil,1,7.2,Yes,No,1
+23,Male,Mechanical,1,6.9,No,Yes,0
+22,Female,Information Technology,2,8.3,Yes,No,1
+24,Male,Electrical,1,7.5,No,No,1
+20,Female,Computer Science,2,8.7,Yes,No,1
+22,Male,Civil,0,6.1,No,Yes,0
+21,Female,Mechanical,2,7.9,Yes,No,1
+23,Male,Computer Science,1,8.0,No,No,1
+24,Female,Information Technology,3,8.9,Yes,No,1
+22,Male,Electronics And Communication,0,6.8,No,Yes,0
+21,Female,Electrical,1,7.6,Yes,No,1
+23,Male,Civil,1,7.1,No,Yes,0
+22,Female,Computer Science,2,8.5,Yes,No,1
+24,Male,Mechanical,2,7.7,No,No,1
+20,Female,Information Technology,1,7.8,Yes,No,1
+21,Male,Computer Science,0,6.4,No,Yes,0
+23,Female,Electrical,2,8.2,Yes,No,1
+22,Male,Civil,1,6.9,No,Yes,0
+24,Female,Computer Science,3,9.2,Yes,No,1
+21,Male,Mechanical,1,7.0,No,No,1
+23,Female,Information Technology,2,8.6,Yes,No,1
+22,Male,Electrical,0,6.5,No,Yes,0
+24,Female,Civil,1,7.4,Yes,No,1
+20,Male,Computer Science,1,7.5,No,No,1
+21,Female,Electronics And Communication,2,7.8,Yes,No,1
+23,Male,Mechanical,0,6.3,No,Yes,0
+22,Female,Information Technology,3,8.8,Yes,No,1
+24,Male,Computer Science,2,8.3,No,No,1
+21,Female,Civil,0,6.7,Yes,Yes,0
+23,Male,Electrical,1,7.2,No,No,1
+22,Female,Mechanical,1,7.6,Yes,No,1
+24,Male,Information Technology,2,8.0,No,No,1
+20,Female,Computer Science,0,6.8,Yes,Yes,0
+21,Male,Civil,1,6.9,No,Yes,0
+23,Female,Computer Science,2,8.9,Yes,No,1
+22,Male,Electrical,1,7.5,No,No,1
+24,Female,Information Technology,2,8.5,Yes,No,1
+21,Male,Mechanical,0,6.2,No,Yes,0
+23,Female,Civil,1,7.3,Yes,No,1
+22,Male,Computer Science,3,8.7,No,No,1
+20,Female,Electrical,1,7.1,Yes,No,1
+24,Male,Electronics And Communication,1,6.9,No,Yes,0
+21,Female,Information Technology,2,8.1,Yes,No,1
+23,Male,Computer Science,2,8.2,No,No,1
+22,Female,Mechanical,0,6.6,Yes,Yes,0
+24,Male,Civil,2,7.5,No,No,1
+21,Female,Computer Science,1,8.4,Yes,No,1
+23,Male,Electrical,0,6.7,No,Yes,0
+22,Female,Information Technology,3,8.9,Yes,No,1
+20,Male,Mechanical,1,6.8,No,Yes,0
+24,Female,Computer Science,2,8.6,Yes,No,1
+21,Male,Civil,0,6.5,No,Yes,0
+23,Female,Electrical,1,7.9,Yes,No,1
+22,Male,Information Technology,1,7.7,No,No,1
+24,Female,Mechanical,2,8.0,Yes,No,1
+21,Male,Computer Science,1,7.3,No,No,1
+23,Female,Civil,2,7.8,Yes,No,1
+22,Male,Electronics And Communication,0,6.4,No,Yes,0
+24,Female,Information Technology,3,9.0,Yes,No,1
+20,Male,Electrical,0,6.1,No,Yes,0
+21,Female,Computer Science,2,8.3,Yes,No,1
+23,Male,Mechanical,1,7.2,No,No,1
+22,Female,Civil,1,7.0,Yes,No,1
+24,Male,Computer Science,3,8.9,No,No,1
+21,Female,Information Technology,1,7.6,Yes,No,1
+23,Male,Electrical,0,6.5,No,Yes,0
+22,Female,Mechanical,2,8.1,Yes,No,1
+20,Male,Civil,0,6.3,No,Yes,0
+24,Female,Computer Science,2,8.8,Yes,No,1
+21,Male,Information Technology,1,7.4,No,No,1
+23,Female,Electrical,2,8.0,Yes,No,1
+22,Male,Mechanical,0,6.7,No,Yes,0
+24,Female,Civil,1,7.7,Yes,No,1
+21,Male,Computer Science,2,8.1,No,No,1
+23,Female,Information Technology,3,8.7,Yes,No,1
+22,Male,Electrical,1,7.3,No,No,1
+20,Female,Mechanical,0,6.5,Yes,Yes,0
+24,Male,Computer Science,2,8.5,No,No,1
+21,Female,Civil,1,7.1,Yes,No,1
+23,Male,Information Technology,2,8.3,No,No,1
+22,Female,Electrical,0,6.8,Yes,Yes,0
+24,Male,Mechanical,1,7.6,No,No,1
+21,Female,Computer Science,3,8.9,Yes,No,1
+23,Male,Civil,0,6.4,No,Yes,0
+22,Female,Information Technology,2,8.5,Yes,No,1
+24,Male,Electrical,2,7.9,No,No,1
+20,Female,Computer Science,1,7.8,Yes,No,1
+21,Male,Mechanical,0,6.6,No,Yes,0
+23,Female,Information Technology,2,8.4,Yes,No,1
+22,Male,Civil,1,7.0,No,Yes,0
+24,Female,Computer Science,3,9.1,Yes,No,1
+21,Male,Electrical,1,7.2,No,No,1
+23,Female,Mechanical,2,8.0,Yes,No,1
+22,Male,Information Technology,0,6.9,No,Yes,0
+24,Female,Civil,2,7.8,Yes,No,1
+20,Male,Computer Science,1,7.6,No,No,1
+21,Female,Electrical,2,8.2,Yes,No,1
+23,Male,Mechanical,0,6.5,No,Yes,0
+22,Female,Information Technology,3,8.8,Yes,No,1
+24,Male,Computer Science,2,8.6,No,No,1
+21,Female,Civil,1,7.3,Yes,No,1
+23,Male,Electrical,1,7.4,No,No,1
+22,Female,Mechanical,2,8.1,Yes,No,1
+24,Male,Information Technology,1,7.7,No,No,1
+20,Female,Computer Science,0,6.9,Yes,Yes,0
+21,Male,Civil,1,6.8,No,Yes,0
+23,Female,Information Technology,2,8.6,Yes,No,1
+22,Male,Electrical,1,7.1,No,No,1
+24,Female,Computer Science,3,9.0,Yes,No,1
+21,Male,Mechanical,0,6.3,No,Yes,0
+23,Female,Civil,2,7.9,Yes,No,1
+22,Male,Information Technology,2,8.2,No,No,1
+24,Female,Electrical,1,7.5,Yes,No,1
+20,Male,Computer Science,1,7.2,No,No,1
+21,Female,Mechanical,2,8.0,Yes,No,1
+23,Male,Civil,0,6.2,No,Yes,0
+22,Female,Information Technology,3,8.9,Yes,No,1
+24,Male,Computer Science,2,8.7,No,No,1
+21,Female,Electrical,1,7.8,Yes,No,1
+23,Male,Mechanical,1,7.0,No,No,1
+22,Female,Civil,2,7.6,Yes,No,1
+24,Male,Information Technology,3,8.8,No,No,1
+20,Female,Computer Science,1,7.9,Yes,No,1
+21,Male,Electrical,0,6.4,No,Yes,0
+23,Female,Information Technology,2,8.5,Yes,No,1
+22,Male,Mechanical,0,6.7,No,Yes,0
+24,Female,Computer Science,3,9.2,Yes,No,1
+21,Male,Civil,1,6.9,No,Yes,0
+23,Female,Electrical,2,8.1,Yes,No,1
+22,Male,Information Technology,1,7.5,No,No,1
+24,Female,Mechanical,2,8.3,Yes,No,1
+20,Male,Computer Science,0,6.6,No,Yes,0
+21,Female,Civil,1,7.4,Yes,No,1
+23,Male,Information Technology,2,8.0,No,No,1
+22,Female,Electrical,1,7.7,Yes,No,1
+24,Male,Computer Science,3,9.0,No,No,1
+21,Female,Mechanical,0,6.8,Yes,Yes,0
+23,Male,Civil,2,7.8,No,No,1
+22,Female,Information Technology,2,8.6,Yes,No,1
+24,Male,Electrical,1,7.2,No,No,1
+20,Female,Computer Science,2,8.4,Yes,No,1
+21,Male,Mechanical,0,6.5,No,Yes,0
+23,Female,Civil,1,7.5,Yes,No,1
+22,Male,Information Technology,3,8.7,No,No,1
+24,Female,Computer Science,2,8.9,Yes,No,1
+21,Male,Electrical,1,7.0,No,No,1
+23,Female,Mechanical,2,8.2,Yes,No,1
+22,Male,Civil,0,6.3,No,Yes,0
+24,Female,Information Technology,3,9.1,Yes,No,1
+20,Male,Computer Science,1,7.4,No,No,1
+21,Female,Electrical,2,8.0,Yes,No,1
+23,Male,Mechanical,0,6.6,No,Yes,0
+22,Female,Civil,1,7.8,Yes,No,1
+24,Male,Information Technology,2,8.4,No,No,1
+21,Female,Computer Science,3,8.8,Yes,No,1
+23,Male,Electrical,1,7.3,No,No,1
+22,Female,Mechanical,2,8.1,Yes,No,1
+24,Male,Civil,0,6.5,No,Yes,0
+21,Female,Information Technology,2,8.7,Yes,No,1
+23,Male,Computer Science,1,8.0,No,No,1
+22,Female,Electrical,2,8.3,Yes,No,1
+24,Male,Mechanical,1,7.5,No,No,1
+20,Female,Civil,0,6.2,Yes,Yes,0
+21,Male,Information Technology,1,7.6,No,No,1
+23,Female,Computer Science,2,8.9,Yes,No,1
+22,Male,Electrical,0,6.7,No,Yes,0
+24,Female,Mechanical,3,8.6,Yes,No,1
+21,Male,Civil,1,7.0,No,Yes,0
+23,Female,Information Technology,2,8.3,Yes,No,1
+22,Male,Computer Science,3,8.8,No,No,1
+24,Female,Electrical,1,7.9,Yes,No,1
+20,Male,Mechanical,0,6.4,No,Yes,0
+21,Female,Civil,2,7.7,Yes,No,1
+23,Male,Information Technology,1,7.8,No,No,1
+22,Female,Computer Science,2,8.5,Yes,No,1
+24,Male,Electrical,0,6.6,No,Yes,0
+21,Female,Mechanical,1,7.4,Yes,No,1
+23,Male,Civil,2,7.9,No,No,1
+22,Female,Information Technology,3,8.9,Yes,No,1
+24,Male,Computer Science,2,8.7,No,No,1
+21,Female,Electrical,1,7.6,Yes,No,1
+23,Male,Mechanical,0,6.8,No,Yes,0
+22,Female,Civil,1,7.2,Yes,No,1
+24,Male,Information Technology,2,8.2,No,No,1
+20,Female,Computer Science,1,7.8,Yes,No,1
+21,Male,Electrical,0,6.5,No,Yes,0
+23,Female,Mechanical,2,8.4,Yes,No,1
+22,Male,Civil,1,7.0,No,Yes,0
+24,Female,Information Technology,3,9.0,Yes,No,1
+21,Male,Computer Science,2,8.1,No,No,1
+23,Female,Electrical,1,7.8,Yes,No,1
+22,Male,Mechanical,0,6.6,No,Yes,0
+24,Female,Civil,2,7.7,Yes,No,1
+21,Male,Information Technology,1,7.5,No,No,1
+23,Female,Computer Science,3,9.1,Yes,No,1
+22,Male,Electrical,1,7.2,No,No,1
+24,Female,Mechanical,2,8.5,Yes,No,1
+20,Male,Civil,0,6.1,No,Yes,0
+21,Female,Information Technology,2,8.3,Yes,No,1
+23,Male,Computer Science,1,7.9,No,No,1
+22,Female,Electrical,2,8.0,Yes,No,1
+24,Male,Mechanical,1,7.4,No,No,1
+21,Female,Civil,1,7.6,Yes,No,1
+23,Male,Information Technology,2,8.6,No,No,1
+22,Female,Computer Science,3,8.9,Yes,No,1
+24,Male,Electrical,0,6.8,No,Yes,0
+21,Female,Mechanical,2,8.2,Yes,No,1
+23,Male,Civil,1,7.1,No,Yes,0
+22,Female,Information Technology,2,8.5,Yes,No,1
+24,Male,Computer Science,3,9.0,No,No,1
+21,Female,Electrical,1,7.7,Yes,No,1
+23,Male,Mechanical,0,6.5,No,Yes,0
+22,Female,Civil,2,7.9,Yes,No,1
+24,Male,Information Technology,1,7.8,No,No,1
+20,Female,Computer Science,2,8.6,Yes,No,1
+21,Male,Electrical,0,6.4,No,Yes,0
+23,Female,Mechanical,1,7.5,Yes,No,1
+22,Male,Civil,0,6.7,No,Yes,0
+24,Female,Information Technology,3,9.2,Yes,No,1
+21,Male,Computer Science,2,8.3,No,No,1
+23,Female,Electrical,1,7.9,Yes,No,1
+22,Male,Mechanical,2,7.8,No,No,1
+24,Female,Civil,1,7.4,Yes,No,1
+21,Male,Information Technology,3,8.8,No,No,1
+23,Female,Computer Science,2,8.7,Yes,No,1
+22,Male,Electrical,0,6.3,No,Yes,0
+24,Female,Mechanical,2,8.1,Yes,No,1
+21,Male,Civil,1,6.9,No,Yes,0
+23,Female,Information Technology,2,8.4,Yes,No,1
+22,Male,Computer Science,3,9.0,No,No,1
+24,Female,Electrical,1,7.8,Yes,No,1
+20,Male,Mechanical,0,6.2,No,Yes,0
+21,Female,Civil,2,7.6,Yes,No,1
+23,Male,Information Technology,1,7.7,No,No,1
+22,Female,Computer Science,2,8.8,Yes,No,1
+24,Male,Electrical,0,6.5,No,Yes,0
+21,Female,Mechanical,1,7.3,Yes,No,1
+23,Male,Civil,2,7.9,No,No,1
+22,Female,Information Technology,3,9.0,Yes,No,1
+24,Male,Computer Science,2,8.6,No,No,1
+21,Female,Electrical,1,7.5,Yes,No,1
+23,Male,Mechanical,0,6.7,No,Yes,0
+22,Female,Civil,1,7.4,Yes,No,1
+24,Male,Information Technology,2,8.3,No,No,1
+20,Female,Computer Science,1,7.7,Yes,No,1
+21,Male,Electrical,0,6.6,No,Yes,0
+23,Female,Mechanical,2,8.5,Yes,No,1
+22,Male,Civil,1,7.1,No,Yes,0
+24,Female,Information Technology,3,9.1,Yes,No,1
+21,Male,Computer Science,2,8.2,No,No,1
+23,Female,Electrical,1,7.8,Yes,No,1
+22,Male,Mechanical,0,6.4,No,Yes,0
+24,Female,Civil,2,7.8,Yes,No,1
+21,Male,Information Technology,1,7.6,No,No,1
+23,Female,Computer Science,3,9.0,Yes,No,1
+22,Male,Electrical,1,7.3,No,No,1
+24,Female,Mechanical,2,8.4,Yes,No,1
+20,Male,Civil,0,6.3,No,Yes,0
+21,Female,Information Technology,2,8.2,Yes,No,1
+23,Male,Computer Science,1,7.8,No,No,1
+22,Female,Electrical,2,8.1,Yes,No,1
+24,Male,Mechanical,1,7.5,No,No,1
+21,Female,Civil,1,7.7,Yes,No,1
+23,Male,Information Technology,2,8.5,No,No,1
+22,Female,Computer Science,3,9.1,Yes,No,1
+24,Male,Electrical,0,6.7,No,Yes,0
+21,Female,Mechanical,2,8.0,Yes,No,1
+23,Male,Civil,1,7.2,No,Yes,0
+22,Female,Information Technology,2,8.7,Yes,No,1
+24,Male,Computer Science,3,8.9,No,No,1
+21,Female,Electrical,1,7.9,Yes,No,1
+23,Male,Mechanical,0,6.6,No,Yes,0
+22,Female,Civil,2,7.8,Yes,No,1
+24,Male,Information Technology,1,7.7,No,No,1
+20,Female,Computer Science,2,8.5,Yes,No,1
